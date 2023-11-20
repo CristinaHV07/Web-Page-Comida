@@ -106,7 +106,7 @@ body{
 
 .btn-1{
     display: inline-block;
-    background-color: #ff9f0d;
+    background-color: #0d7aff;
     padding: 13px 30px;
     border-radius: 25px;
    color: white;
@@ -115,7 +115,7 @@ body{
 }
 
 .btn-1:hover{
-    background-color: #EE9003;
+    background-color: #03e2ee;
 }
 
 .header-img{
